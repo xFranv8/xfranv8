@@ -34,6 +34,9 @@ I'm a **Software Engineer** specialized in **Robotics** & **Embedded** Systems.
 - **[BMP280 embassy-based driver in Rust](https://github.com/xFranv8/embassy-bmp280.git)**  
   Tools and libraries for embedded development in Rust.
 
+- **[Neural Network training in C for MNIST dataset](https://github.com/xFranv8/mnist-c-nn)**  
+  A simple implementation of a neural network in C for the MNIST dataset.
+
 ---
 
 ## 📫 Let’s Connect
