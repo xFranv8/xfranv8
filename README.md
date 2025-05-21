@@ -4,13 +4,16 @@ I'm a **Software Engineer** specialized in **Robotics** & **Embedded** Systems.
 
 ---
 
-## ⚙️ What I Do
+## ⚙️ Expertise
 
-- Embedded development in **C/C++** and **Rust**
-- Firmware design, sensor integration, and real-time control
-- Robotics systems architecture and software stacks
-- Development for **Linux-based boards**, RTOS, and bare-metal
-- Use of **AI models** to enhance autonomy and perception
+- Embedded systems development using **C/C++** and **Rust**
+- Firmware design, sensor integration, and real-time control systems
+- Architecture and software development for robotic systems
+- Experience with **ARM-based platforms** (STM32, ESP32, Raspberry Pi Pico)
+- Design and implementation of **ROS/ROS2** nodes and software stacks
+- Development and deployment of AI models on embedded hardware
+- Programming and optimization for **NVIDIA Jetson** family boards
+- Application of AI to enhance system autonomy and perception
 
 ---
 
@@ -18,9 +21,9 @@ I'm a **Software Engineer** specialized in **Robotics** & **Embedded** Systems.
 
 - Languages: `C`, `C++`, `Rust`, `Python`
 - Platforms: `STM32`, `ESP32`, `Raspberry Pi Pico`
-- Tools: `ROS`, `Docker`, `Git`, `GDB`, `ROS2`, `CUDA`
+- Tools: `ROS`, `ROS2`, `CUDA`, `Docker`, `Git`, `GDB`,
 - Protocols: `CAN`, `MQTT`, `HTTP`, `gRPC`, `I2C`, `SPI`, `UART`
-- Frameworks: `FreeRTOS`, `Zephyr`, `OpenEmbedded`
+- RTOS: `FreeRTOS`, `Zephyr`, `OpenEmbedded`
 - Bonus: `OpenCV`, `TensorFlow Lite`, `FastAPI`, `PyTorch`
 
 ---
