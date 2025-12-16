@@ -8,6 +8,7 @@ I'm a **Software Engineer** specialized in **Robotics** & **Embedded** Systems.
 
 - Embedded systems development using **C/C++** and **Rust**
 - Firmware design, sensor integration, and real-time control systems
+- **PCB design** for embedded systems and custom hardware solutions
 - Architecture and software development for robotic systems
 - Experience with **ARM-based platforms** (STM32, ESP32, Raspberry Pi Pico)
 - Design and implementation of **ROS/ROS2** nodes and software stacks
@@ -21,7 +22,7 @@ I'm a **Software Engineer** specialized in **Robotics** & **Embedded** Systems.
 
 - Languages: `C`, `C++`, `Rust`, `Python`
 - Platforms: `STM32`, `ESP32`, `Raspberry Pi Pico`
-- Tools: `ROS`, `ROS2`, `CUDA`, `Docker`, `Git`, `GDB`,
+- Tools: `ROS`, `ROS2`, `CUDA`, `Docker`, `Git`, `GDB`, `KiCad`, `EasyEDA`
 - Protocols: `CAN`, `MQTT`, `HTTP`, `gRPC`, `I2C`, `SPI`, `UART`
 - RTOS: `FreeRTOS`, `Zephyr`, `OpenEmbedded`
 - Bonus: `OpenCV`, `TensorFlow Lite`, `FastAPI`, `PyTorch`
